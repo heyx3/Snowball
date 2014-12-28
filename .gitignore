@@ -50,3 +50,5 @@ Intermediate/CachedAssetRegistry.bin
 Saved/Autosaves/*
 Saved/Backup/*
 Saved/Logs/*
+Saved/Cooked/*
+Saved/StagedBuilds/*
